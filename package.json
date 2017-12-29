@@ -1,0 +1,26 @@
+{
+  "name": "nodeuniversity",
+  "version": "1.0.0",
+  "description": "This is collection of node university courses result",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didikz/nodeuniversitycourses.git"
+  },
+  "author": "Didik Tri Susanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didikz/nodeuniversitycourses/issues"
+  },
+  "homepage": "https://github.com/didikz/nodeuniversitycourses#readme",
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
